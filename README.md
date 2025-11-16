@@ -11,4 +11,4 @@ I have worked on many projects, but here are a few that you can go check out in 
 I am currently working on a project called TBotAI
 
 ## Contact
-[Contact form](https://docs.google.com/forms/d/e/1FAIpQLSfGd3w5zgzIPSv15EuGtoeNx5PSb2SzHJaKN-vq_wXSAO9X4Q/viewform?embedded=true)
+[Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSeSeWpFiYIzRKiuvzyjVsE0Q1NxjzCVzU8p3KHv4XZfdHMHFg/viewform?usp=dialog)
